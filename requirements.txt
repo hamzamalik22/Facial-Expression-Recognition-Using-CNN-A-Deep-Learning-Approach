@@ -1,0 +1,9 @@
+torch
+torchvision
+tensorflow
+numpy
+matplotlib
+seaborn
+scikit-learn
+Pillow
+h5py
